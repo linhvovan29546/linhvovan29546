@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/91b3fbdb-128a-4858-83e1-2c4f4cfb8db1.svg)](https://wakatime.com/@91b3fbdb-128a-4858-83e1-2c4f4cfb8db1)
 <!--
 **linhvovan29546/linhvovan29546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
