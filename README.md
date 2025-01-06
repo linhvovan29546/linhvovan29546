@@ -1,8 +1,8 @@
 ## Hi there <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" height="40px"/>
 
 I'm currently working on a React Native app using Expo.
+<!--- [![wakatime](https://wakatime.com/badge/user/91b3fbdb-128a-4858-83e1-2c4f4cfb8db1.svg)](https://wakatime.com/@91b3fbdb-128a-4858-83e1-2c4f4cfb8db1)  --->
 
-[![wakatime](https://wakatime.com/badge/user/91b3fbdb-128a-4858-83e1-2c4f4cfb8db1.svg)](https://wakatime.com/@91b3fbdb-128a-4858-83e1-2c4f4cfb8db1)
 
 
 ## Tech
